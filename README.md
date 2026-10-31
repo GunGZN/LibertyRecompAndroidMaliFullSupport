@@ -2,7 +2,7 @@
     <img src="docs/android/images/banner_android_v4.png" alt="Liberty Recompiled for Android" width="800"/>
 </p>
 
-# LibertyRecompAndroid
+# LibertyRecompAndroidx
 
 An Android port of [Liberty Recompiled](https://github.com/OZORDI/LibertyRecomp), the static
 recompilation of the Xbox 360 version of Grand Theft Auto IV. It runs the recompiled game natively
